@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">👋 Hi, I'm Muhammad Subhan Zia</h1>
-<p align="center">Data Science Student & Full‑Stack Developer | Exploring AI, Automation & Real‑World Problem Solving</p>
+<p align="center">Data Science Student & AI Web Development | Exploring AI, Automation & Real‑World Problem Solving</p>
 <br>
 
 ---
@@ -18,15 +18,15 @@
 | Project | Tech Stack | Summary |
 |--------|------------|---------|
 | **Quote Generator** | Next.js + CSS | Inspiring quotes web app with dynamic themes |
-| **Savera** | Flutter + Firebase | Expense tracker with limit controls & reminders |
-| **SafeNest** | Flutter + Maps | Safety alert app for women with live features |
+| **Savera** | Flutter + Dart | Expense tracker with limit controls & reminders |
+| **SafeNest** | Kotlin + java | Safety alert app for women with live features |
 | **Snake Game** | Python | Classic game logic built from scratch |
 | **Fraud Detection** | Python (ML) | Academic project on detecting payment fraud |
 
 ---
 
 ### ⚙️ Tech & Tools
-Python · JavaScript · Dart · Java
+Python · Dart · Java
 Flutter · Next.js · Node.js · Firebase · PostgreSQL · MongoDB
 Git · GitHub · VSCode · Figma · n8n · Vercel · CI/CD
 
@@ -36,6 +36,7 @@ Git · GitHub · VSCode · Figma · n8n · Vercel · CI/CD
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSubhanZia&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSubhanZia&theme=tokyonight" width="45%" alt="Streak"/>
 </p>
 
