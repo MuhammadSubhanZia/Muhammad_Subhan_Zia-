@@ -64,13 +64,6 @@
 
 ---
 
-### 🔥 Top Contributed Repositories
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSubhanZia&show_icons=true&theme=tokyonight)](https://github.com/MuhammadSubhanZia)
-
-
----
-
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadSubhanZia&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
