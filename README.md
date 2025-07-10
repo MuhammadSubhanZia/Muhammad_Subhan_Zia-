@@ -18,3 +18,8 @@ Languages: Python, Java, JavaScript, Dart
 Frameworks: Flutter, Next.js, Node.js  
 Databases: Firebase, PostgreSQL, MongoDB  
 Tools: Git, GitHub, VSCode, Figma, MS SQL Server, n8n  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhanzia&show_icons=true&theme=radical" alt="Subhan's GitHub stats" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhanzia&theme=radical" alt="GitHub Streak" width="45%"/> </p>
+
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanzia&theme=github-compact" alt="GitHub Contribution Graph"/> </p>
