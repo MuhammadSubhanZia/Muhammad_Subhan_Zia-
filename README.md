@@ -64,8 +64,10 @@
 
 ---
 
-### 📌 Top Contributed Repository
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSubhanZia&layout=compact&theme=tokyonight)](https://github.com/MuhammadSubhanZia)
+### 🔥 Top Contributed Repositories
+<a href="https://github-contributor-stats.vercel.app/api/MuhammadSubhanZia">
+  <img src="https://github-contributor-stats.vercel.app/api/MuhammadSubhanZia" />
+</a>
 
 ---
 
