@@ -21,7 +21,7 @@
 | **Quote Generator** | Next.js + CSS | Inspiring quotes web app with dynamic themes |
 | **Savera** | Flutter + Dart | Expense tracker with limit controls & reminders |
 | **SafeNest** | Kotlin + java | Safety alert app for women with live features |
-| **Snake Game** | Python | Classic game logic built from scratch |
+| **Snake Game** | Assembly x86 | Classic game logic built from scratch |
 | **Fraud Detection** | Python (ML) | Academic project on detecting payment fraud |
 
 ---
