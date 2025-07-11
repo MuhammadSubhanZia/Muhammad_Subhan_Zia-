@@ -6,26 +6,6 @@
 
 ---
 
-### 🔍 About Me
-- 🎓 BS Data Science (FAST NUCES Lahore) — halfway through and diving into Android & Web projects  
-- 📱 Working on *Mobile App Development*, *Ai Web development*, and more    
-- 🤖 Exploring automation, web scraping, AI workflows, OpenCV, Media pipe and new tech stacks
-- 💬 Fluent in Python, JavaScript, Java, Dart | Frameworks: Flutter, Next.js, Node.js  
-- 🌱 Always learning, building, failing, and growing ⏳  
-
----
-
-### 💼 Featured Projects
-| Project | Tech Stack | Summary |
-|--------|------------|---------|
-| **Quote Generator** | Next.js + CSS | Inspiring quotes web app with dynamic themes |
-| **Savera** | Flutter + Dart | Expense tracker with limit controls & reminders |
-| **SafeNest** | Kotlin + java | Safety alert app for women with live features |
-| **Snake Game** | Assembly x86 | Classic game logic built from scratch |
-| **Fraud Detection** | Python (ML) | Academic project on detecting payment fraud |
-
----
-
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,7 +31,14 @@
   <img src="https://img.shields.io/badge/ShadCN-%236f42c1?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+---
 
+### 🔍 About Me
+- 🎓 BS Data Science (FAST NUCES Lahore) — halfway through and diving into Android & Web projects  
+- 📱 Working on *Mobile App Development*, *Ai Web development*, and more    
+- 🤖 Exploring automation, web scraping, AI workflows, OpenCV, Media pipe and new tech stacks
+- 💬 Fluent in Python, JavaScript, Java, Dart | Frameworks: Flutter, Next.js, Node.js  
+- 🌱 Always learning, building, failing, and growing ⏳  
 
 ---
 
@@ -73,6 +60,18 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSubhanZia&layout=compact&theme=radical)](https://github.com/MuhammadSubhanZia)
 
 ---
+
+### 💼 Featured Projects
+| Project | Tech Stack | Summary |
+|--------|------------|---------|
+| **Quote Generator** | Next.js + CSS | Inspiring quotes web app with dynamic themes |
+| **Savera** | Flutter + Dart | Expense tracker with limit controls & reminders |
+| **SafeNest** | Kotlin + java | Safety alert app for women with live features |
+| **Snake Game** | Assembly x86 | Classic game logic built from scratch |
+| **Fraud Detection** | Python (ML) | Academic project on detecting payment fraud |
+
+---
+
 
 ### 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hafizmuhammadsubhanzia)  
