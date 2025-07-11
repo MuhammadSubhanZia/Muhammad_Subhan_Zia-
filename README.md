@@ -8,8 +8,8 @@
 
 ### 🔍 About Me
 - 🎓 BS Data Science (FAST NUCES Lahore) — halfway through and diving into Android & Web projects  
-- 📱 Working on **Savera**, **SafeNest**, **Quote Generator**, and more    
-- 🤖 Exploring automation, web scraping, AI workflows, and new tech stacks  
+- 📱 Working on *Mobile App Development*, *Ai Web development*, and more    
+- 🤖 Exploring automation, web scraping, AI workflows, OpenCV, Media pipe and new tech stacks
 - 💬 Fluent in Python, JavaScript, Java, Dart | Frameworks: Flutter, Next.js, Node.js  
 - 🌱 Always learning, building, failing, and growing ⏳  
 
