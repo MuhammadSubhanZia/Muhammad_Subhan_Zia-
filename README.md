@@ -64,7 +64,8 @@
 ### 💼 Featured Projects
 | Project | Tech Stack | Summary |
 |--------|------------|---------|
-| **Quote Generator** | Next.js + CSS | Inspiring quotes web app with dynamic themes |
+| **Quote Generator** | Next.js + CSS + Tailwind + MongoDB + Supabase + typescript | Inspiring quotes web app with dynamic themes |
+| **Blog Summariser** | Next.js + CSS + Tailwind + MongoDB + Supabase + typescript| Kitchen themed blog summariser application with superb UI/UX all custom designed by me |
 | **Savera** | Flutter + Dart | Expense tracker with limit controls & reminders |
 | **SafeNest** | Kotlin + java | Safety alert app for women with live features |
 | **Snake Game** | Assembly x86 | Classic game logic built from scratch |
