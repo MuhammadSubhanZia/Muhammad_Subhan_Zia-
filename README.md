@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">👋 Hi, I'm Muhammad Subhan Zia</h1>
 💫 About Me: <br>
-- 🎓 BS Data Science (FAST NUCES Lahore) halfway through and diving into Android & Web projects  <br>- 📱 Working on *Mobile App Development*, *Ai Web development*, and more    <br>- 🤖 Exploring automation, web scraping, AI workflows, OpenCV, Media pipe and new tech stacks<br>- 💬 beginer in Python, JavaScript, TypeScript, Java, Dart | Frameworks: Flutter, Next.js, Node.js  <br>- 🌱 Always learning, building, failing, and growing ⏳  
+- 🎓 BS Data Science (FAST NUCES Lahore) halfway through and diving into Android & Web projects  <br>- 📱 Working on Mobile App Development, Ai Web development, and more    <br>- 🤖 Exploring automation, web scraping, AI workflows, OpenCV, Media pipe and new tech stacks<br>- 💬 beginer in Python, JavaScript, TypeScript, Java, Dart | Frameworks: Flutter, Next.js, Node.js  <br>- 🌱 Always learning, building, failing, and growing ⏳  
 
 
 ## 🌐 Socials:
